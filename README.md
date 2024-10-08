@@ -19,7 +19,4 @@ HungryTiger is a mobile application designed to minimize food waste by notifying
 ## Installation
 
 ### Backend Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/hungrytiger-backend.git
-   cd hungrytiger-backend
+
